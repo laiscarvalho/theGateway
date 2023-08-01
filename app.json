@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "TheGateway",
+    "slug": "TheGateway",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Permita que o aplicativo acesse a câmera para ler códigos QR."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lai_carvalho.TheGateway"
+    },
+    "web": {},
+    "extra": {
+      "VARIABLE_NAME": "variable_value",
+      "eas": {
+        "projectId": "697cb17b-cedb-4d95-80ae-64d2bf77f013"
+      }
+    }
+  }
+}
