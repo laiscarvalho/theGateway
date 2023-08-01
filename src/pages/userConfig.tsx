@@ -182,8 +182,8 @@ const styles = StyleSheet.create({
   },
 
   form: {
-    paddingHorizontal: 70,
-    width: "100%",
+    paddingHorizontal: 50,
+    width: "100%",    
   },
 
   formLogin: {
@@ -198,9 +198,9 @@ const styles = StyleSheet.create({
     borderBottomColor: colors.gray,
     color: colors.heading,
     width: 250,
-    fontSize: 18,
-    marginTop: 30,
-    padding: 10,
+    fontSize: 20,
+    marginTop: 50,  
+    padding: 10,    
     textAlign: "center",
   },
   inputLogin: {

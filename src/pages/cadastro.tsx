@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
     },
 
     form: {
-        paddingHorizontal: 54,
+        paddingHorizontal: 50,
         width: '100%'
     },
 
@@ -189,11 +189,10 @@ const styles = StyleSheet.create({
         borderBottomColor: colors.gray,
         color: colors.heading,
         fontSize: 18,
-        padding: 20,
+        padding: 10,
         width: 200,
         marginTop: 30,
         textAlign: 'center',
-
 
     },
 
